@@ -16,8 +16,6 @@
 *Building machines that perceive, reason, and operate in the real world.*
 
 
-  \
-
 ---
 
 ```python
