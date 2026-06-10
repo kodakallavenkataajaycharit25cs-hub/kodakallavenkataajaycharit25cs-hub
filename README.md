@@ -11,7 +11,7 @@
 
 ## Ajay Charit . K
 
-### Autonomous Systems Engineer • Computer Vision Engineer • Full Stack Developer
+### Autonomous Systems Engineer • Computer Vision Engineer • Full Stack Developer ● ML Engineer
 
 *Building machines that perceive, reason, and operate in the real world.*
 
